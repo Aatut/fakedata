@@ -244,9 +244,9 @@
               "process5ram": 6
             },
             {
-              "id":14,
+              "id":17,
               "time": "20.11.2019 14:05",
-              "cpuusage": 84,
+              "cpuusage": 69,
               "process1name":"Steam.exe",
               "process1": 30,
               "process2name":"Chrome.exe",
@@ -266,9 +266,9 @@
               "process5ram": 6
             },
             {
-              "id":15,
+              "id":18,
               "time": "20.11.2019 14:10",
-              "cpuusage": 84,
+              "cpuusage": 13,
               "process1name":"Steam.exe",
               "process1": 20,
               "process2name":"Chrome.exe",
